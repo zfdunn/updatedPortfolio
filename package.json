@@ -1,0 +1,22 @@
+{
+  "name": "updatedportfolio",
+  "version": "1.0.0",
+  "description": "ZDs Responsive Portfolio Website - Updated to Current Rev",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfdunn/updatedPortfolio.git"
+  },
+  "author": "Zach Dunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfdunn/updatedPortfolio/issues"
+  },
+  "homepage": "https://github.com/zfdunn/updatedPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
