@@ -1,7 +1,7 @@
 # updatedPortfolio
 
-new packages used
+new packages used:
 
 npm-sass
-scss
-    css-translate 3d
+    scss
+        css-translate 3d
